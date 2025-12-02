@@ -10,21 +10,21 @@ I enjoy building real-world solutions that combine **backend logic**, **AI-power
 ## 🚀 Skills & Technologies
 
 ### **💻 Programming**
--Html and Css Basics
+-Html and CSS
 - JavaScript (ES6+), Python  
 - Node.js, Express.js  
 - React.js, Next.js  
 - MongoDB, Mongoose  
 
 ### **🤖 AI & Automation**
-- LangChain / Agentic AI  
+- Lang Chain Lang Graph, CrewAI, Autogen and more agent tools / Agentic AI
 - OpenAI API & Assistants  
 - RAG pipelines  
 - AI automation workflows  
 
 ### **🛠 DevOps & Tools**
 - Git & GitHub  
-- Docker  
+- Docker and kubernetes
 - Linux basics  
 - CI/CD pipelines  
 - Cloud deployment (Render, Vercel, Netlify), AWS and Google Cloud Platforms 
