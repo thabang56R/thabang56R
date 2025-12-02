@@ -57,7 +57,7 @@ Node.js + Express + MongoDB backend with user management, job listings, and Clou
 ## 📬 Connect With Me
 - **GitHub:** github.com/thabang56R
   
-- **Email:** Add your email here
+- **Email:** thabang56@hotmail.com
 
 ---
 
