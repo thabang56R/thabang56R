@@ -10,7 +10,6 @@ I build real-world solutions that combine **backend logic**, **AI-powered automa
 ## 🚀 Skills & Technologies
 
 ### **💻 Programming**
--Html and CSS
 - JavaScript (ES6+), Python  
 - Node.js, Express.js  
 - React.js, Next.js  
@@ -49,7 +48,7 @@ Node.js + Express + MongoDB backend with user management, job listings, and Clou
 
 ## 📈 What I'm Working On
 - Improving my **agentic AI engineering** skills and
-- My **Full-Stack Development **Skills
+- My ** Full-Stack Development ** Skills
 - Building automation tools for recruiters and SaaS businesses  
 - Expanding my portfolio with production-level full-stack applications  
 
