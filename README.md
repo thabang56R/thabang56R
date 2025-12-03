@@ -3,7 +3,7 @@
 ### Full-Stack Developer | Agentic AI Engineer | DevOps Enthusiast
 
 I'm a passionate developer with a strong background in **MERN Stack**, **AI automation**, **Agentic AI systems**, and **DevOps tools** Basics.  
-I building real-world solutions that combine **backend logic**, **AI-powered automation**, and **clean UI/UX** **Frontend**.
+I build real-world solutions that combine **backend logic**, **AI-powered automation**, and **clean UI/UX** **Frontend**.
 
 ---
 
