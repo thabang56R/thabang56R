@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Thabang  
 ### Full-Stack Developer | Agentic AI Engineer | DevOps Enthusiast
 
-I'm a passionate developer with a strong background in **MERN Stack**, **AI automation**, **Agentic AI systems**, and **DevOps tools** Basics.  
+I'm a passionate developer with a strong background in **MERN Stack** and **ASP.NET CORE, **AI automation**, **Agentic AI systems**, and **DevOps tools** Basics.  
 I build real-world solutions that combine **backend logic**, **AI-powered automation**, and **clean UI/UX** **Frontend**.
 
 ---
@@ -10,10 +10,10 @@ I build real-world solutions that combine **backend logic**, **AI-powered automa
 ## 🚀 Skills & Technologies
 
 ### **💻 Programming**
-- JavaScript (ES6+), Python  
-- Node.js, Express.js  
-- React.js, Next.js  
-- MongoDB, Mongoose  
+- JavaScript (ES6+), PYTHON, ASP. NET CORE
+- Node.js, Express.js,C#,  NET 8,ASP. NET CORE WEB API
+- React.js, Next.js , CSS, html 5,typescript
+- MongoDB, Mongoose, SQL Server, SQL
 
 ### **🤖 AI & Automation**
 - Lang Chain Lang Graph, CrewAI, Autogen and more agent tools / Agentic AI
