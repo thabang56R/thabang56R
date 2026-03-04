@@ -40,7 +40,7 @@ AI Integration
 
 ## 🌟 Featured Projects
 
-### 🔷 AI-Powered Job Application Optimizer
+### 🔷 AI-Powered Job Application Optimizer (.NET + REACT + AI )
 AI-driven recruitment platform that analyzes resumes against job descriptions, scores candidate suitability, and provides explainable hiring insights.
 Architecture:
 Frontend: React + Vite (Vercel)
