@@ -48,10 +48,17 @@ AI Integration
 AI-driven recruitment platform that analyzes resumes against job descriptions, scores candidate suitability, and provides explainable hiring insights.
 Architecture:
 Frontend: React + Vite (Vercel)
+
 Backend: ASP.NET Core 8 REST API
+
 Database: PostgreSQL
+
 AI Engine: OpenAI API
-Infrastructure: Docker + GitHub Actions CI/CD
+
+Infrastructure: 
+
+Docker + GitHub Actions CI/CD
+
 Deployment: Render
 
 Key Features:
