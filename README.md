@@ -63,13 +63,20 @@ Key Features:
 
 ### 🔷 AI Resume Screener (MERN)
 Full-stack MERN application that automatically evaluates resumes using AI, highlights matched skills, identifies gaps, and ranks candidates.
+
 Architecture:
-Frontend: React
-Backend: Node.js + Express
-Database: MongoDB
+Frontend:
+React
+Backend:
+Node.js + Express
+
+Database: 
+MongoDB
+
 AI Engine: OpenAI API
 
 Key Features:
+
 • Resume parsing
 • Skill matching
 • Candidate ranking
