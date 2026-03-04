@@ -109,10 +109,6 @@ React • Node.js • Express • ASP.NET Core • MongoDB • PostgreSQL • Do
 
 ---
 
-## 📫 Connect With Me
-
-GitHub: https://github.com/thabang56R  
-
 
 ## 📬 Connect With Me
 - **GitHub:** github.com/thabang56R
@@ -120,6 +116,8 @@ GitHub: https://github.com/thabang56R
 - **Email:** thabang56@hotmail.com
 
 - **LinkedIn**: Thabang Rakeng
+
+- **Contact**:064 917 3328
 
 ---
 
