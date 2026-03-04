@@ -1,6 +1,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thabang56R&color=blue)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thabang56R&show_icons=true)
+
 # Hi 👋 I'm Thabang Rakeng
 
 **Full-Stack Developer | MERN + .NET | AI-Powered Applications**
