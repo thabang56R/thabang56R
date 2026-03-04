@@ -1,6 +1,9 @@
 
 # 👋 Hi, I'm Thabang  
-### Full-Stack Developer | Agentic AI Engineer | DevOps Enthusiast
+### Full-Stack Developer | MERN + DOTNET | AI Powered Applications
+**Building intelligent systems with React, Node.js, ASP.NET core, PostgreSQL and OpenAI.**
+
+**Projects include AI resume screening, recruitment Optimization platforms, financial APIs etc.**
 
 I'm a passionate developer with a strong background in **MERN Stack** and **ASP.NET CORE, **AI automation**, **Agentic AI systems**, and **DevOps tools** Basics.  
 I build real-world solutions that combine **backend logic**, **AI-powered automation**, and **clean UI/UX** **Frontend**.
