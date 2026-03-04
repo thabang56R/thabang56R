@@ -117,7 +117,7 @@ React • Node.js • Express • ASP.NET Core • MongoDB • PostgreSQL • Do
 
 - **LinkedIn**: Thabang Rakeng
 
-- **Contact**:064 917 3328
+- **Contact**: 064 917 3328
 
 ---
 
