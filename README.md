@@ -123,5 +123,5 @@ GitHub: https://github.com/thabang56R
 
 ---
 
-⭐ **Feel free to explore my repositories and give me stars if you liked any project,thats gives me courage to expand it**
+⭐ **Feel free to explore my repositories and give me stars if you liked any project,thats gives me courage to expand it.**
 
