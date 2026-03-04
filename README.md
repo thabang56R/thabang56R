@@ -1,68 +1,127 @@
+# Hi 👋 I'm Thabang Rakeng
 
-# 👋 Hi, I'm Thabang  
-### Full-Stack Developer | MERN + DOTNET | AI Powered Applications
-**Building intelligent systems with React, Node.js, ASP.NET core, PostgreSQL and OpenAI.**
+**Full-Stack Developer | MERN + .NET | AI-Powered Applications**
 
-**Projects include AI resume screening, recruitment Optimization platforms, financial APIs etc.**
-
-I'm a passionate developer with a strong background in **MERN Stack** and **ASP.NET CORE, **AI automation**, **Agentic AI systems**, and **DevOps tools** Basics.  
-I build real-world solutions that combine **backend logic**, **AI-powered automation**, and **clean UI/UX** **Frontend**.
+I build intelligent web platforms combining modern backend architecture, AI integration, and scalable APIs.  
+My focus is building real-world systems that solve practical business problems.
 
 ---
 
-## 🚀 Skills & Technologies
+## 🧠 Core Skills
 
-### **💻 Programming**
-- JavaScript (ES6+), PYTHON, ASP. NET CORE
-- Node.js, Express.js,C#,  NET 8,ASP. NET CORE WEB API
-- React.js, Next.js , CSS, html 5,typescript
-- MongoDB, Mongoose, SQL Server, SQL
+Frontend
+- React
+- Vite
+- HTML5
+- CSS
 
-### **🤖 AI & Automation**
-- Lang Chain Lang Graph, CrewAI, Autogen and more agent tools / Agentic AI
-- OpenAI API & Assistants  
-- RAG pipelines  
-- AI automation workflows  
+Backend
+- Node.js
+- Express.js
+- ASP.NET Core
 
-### **🛠 DevOps & Tools**
-- Git & GitHub  
-- Docker and kubernetes
-- Linux basics  
-- CI/CD pipelines  
-- Cloud deployment (Render, Vercel, Netlify), AWS and Google Cloud Platforms 
+Databases
+- MongoDB
+- PostgreSQL
+- SQL Server
+
+DevOps
+- Docker
+- GitHub Actions (CI/CD)
+- Render
+- Vercel
+
+AI Integration
+- OpenAI API
+- Resume analysis systems
+- AI evaluation engines
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🔹 **AI-Powered CV Screener**
-A Full stack Ai automated system that screens CVs, extracts skills, and matches them with job descriptions.
+### 🔷 AI-Powered Job Application Optimizer
+AI-driven recruitment platform that analyzes resumes against job descriptions, scores candidate suitability, and provides explainable hiring insights.
+Architecture:
+Frontend: React + Vite (Vercel)
+Backend: ASP.NET Core 8 REST API
+Database: PostgreSQL
+AI Engine: OpenAI API
+Infrastructure: Docker + GitHub Actions CI/CD
+Deployment: Render
 
-### 🔹 **AI-Powered Customer Support Chatbot**
-Full-stack chatbot that handles FAQs, generates responses, and logs conversations.
+Key Features:
+• AI candidate scoring
+• Resume skill extraction
+• Job-to-candidate matching
+• Explainable AI feedback
+• Recruiter workflow dashboard
 
-### 🔹 **Learning Management System (LMS) with AI Integration**
-MERN-based LMS with user login, course management, and AI-powered tutors.
+### 🔷 AI Resume Screener (MERN)
+Full-stack MERN application that automatically evaluates resumes using AI, highlights matched skills, identifies gaps, and ranks candidates.
+Architecture:
+Frontend: React
+Backend: Node.js + Express
+Database: MongoDB
+AI Engine: OpenAI API
 
-### 🔹 **Job Recruitment Platform Backend**
-Node.js + Express + MongoDB backend with user management, job listings, and Cloudinary uploads.
+Key Features:
+• Resume parsing
+• Skill matching
+• Candidate ranking
+• Improvement suggestions
+
+### 🔷 FinTrack Invoice API (.NET)
+Secure ASP.NET Core REST API for managing invoices, payments, and financial transactions with authentication, testing, and CI/CD integration.
+Architecture:
+Backend: ASP.NET Core Web API
+Database: SQL Server
+Authentication: JWT
+Testing: xUnit
+CI/CD: GitHub Actions
+
+Key Features:
+• Invoice management
+• Payment tracking
+• Financial reporting
+• Secure API endpoints
+
+### 🔷 Flaviction Daycare Center Portal (Client MERN Project)
+Modern MERN web portal designed to manage daycare operations, parent communication, and announcements with a responsive user interface.
+
+### 🔷 Inevitable Accounting & Advisory Website (Client React Project)
+Professional React-based business website showcasing accounting services, company information, and client contact functionality.
 
 ---
 
-## 📈 What I'm Working On
-- Improving my **agentic AI engineering** skills and
-- My ** Full-Stack Development ** Skills
-- Building automation tools for recruiters and SaaS businesses  
-- Expanding my portfolio with production-level full-stack applications  
+## ⚙️ Technologies I Work With
+
+React • Node.js • Express • ASP.NET Core • MongoDB • PostgreSQL • Docker • GitHub Actions • OpenAI API
 
 ---
+
+## 🎯 Current Focus
+
+- Building AI-powered developer tools
+- Improving backend architecture with .NET
+- Designing scalable REST APIs
+- Learning advanced system design
+
+---
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/thabang56R  
+
 
 ## 📬 Connect With Me
 - **GitHub:** github.com/thabang56R
   
 - **Email:** thabang56@hotmail.com
 
+- **LinkedIn**: Thabang Rakeng
+
 ---
 
-⭐ **Feel free to explore my repositories 
+⭐ **Feel free to explore my repositories and give me stars if you liked any project,thats gives me courage to expand it**
 
