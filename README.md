@@ -40,11 +40,11 @@ AI Integration
 - Resume analysis systems
 - AI evaluation engines
 
-  Machine learning
+Machine learning
 
-  - 
-
-
+- Scikit-learn
+- NumPy
+- pandas
 
 ---
 
