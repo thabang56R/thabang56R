@@ -40,6 +40,12 @@ AI Integration
 - Resume analysis systems
 - AI evaluation engines
 
+  Machine learning
+
+  - 
+
+
+
 ---
 
 ## 🌟 Featured Projects
