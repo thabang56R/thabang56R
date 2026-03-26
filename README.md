@@ -45,6 +45,7 @@ Machine learning
 - Scikit-learn
 - NumPy
 - pandas
+- FastApi
 
 ---
 
